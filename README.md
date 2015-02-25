@@ -3,7 +3,7 @@ I'm not your buddy friend
 
 have ruby installed, then just run
 
-''''
+````
 ruby run.rb
 ````
 
